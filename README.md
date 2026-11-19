@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
