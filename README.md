@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
