@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
