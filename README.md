@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
