@@ -7,6 +7,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1051-height-checker](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -75,4 +76,9 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
