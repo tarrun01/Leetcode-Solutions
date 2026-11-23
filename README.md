@@ -14,6 +14,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0707-design-linked-list](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarrun01/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tarrun01/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
