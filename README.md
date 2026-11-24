@@ -84,4 +84,20 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/tarrun01/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tarrun01/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
